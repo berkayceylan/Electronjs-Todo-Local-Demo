@@ -1,0 +1,10 @@
+.my-btn{
+    margin-left: 20px;
+    outline: none;
+}
+.my-container{
+    padding-top: 20px;
+}
+.my-text:focus{
+    outline: 0;
+}
